@@ -1,4 +1,4 @@
-# CMGT Minecraft Server – Command Overview
+# CMGT Minecraft Server – Player Commands
 
 Welcome to the **CMGT Minecraft Server**!  
 This page lists all the commands you can use, along with an explanation of what each command does.  
